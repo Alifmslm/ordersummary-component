@@ -132,6 +132,18 @@ p {
     font-weight: 700;
 }
 
+a:hover{
+    color: var(--desaturated-blue);
+}
+
+.card__content-button-primary:hover {
+    background-color: var(--desaturated-blue);
+}
+
+.card__content-button-sub:hover {
+    color: var(--dark-blue);
+}
+
 .attribution { 
     position: absolute;
     top: 95%;
